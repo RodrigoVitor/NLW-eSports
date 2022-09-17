@@ -4,7 +4,7 @@ Desenvolvido durante o evento *NLW* da [Rocketseat](https://www.rocketseat.com.b
 
 ## Sobre
 Aplicação web para amantes de games no qual você publica um anúncio de um jogo procurando um *Duo* para você fazer par.
-Os jogos exibidos na tela, vem do backend no qual você pode alterar. Para funcionamento é precisso que você baixe a API que está disponível [clicando aqui]()
+Os jogos exibidos na tela, vem do backend no qual você pode alterar. Para funcionamento é precisso que você baixe a API que está disponível [clicando aqui](https://github.com/RodrigoVitor/API-NLW-eSports)
 
 ## Tecnologias
 * React (Typescript)
