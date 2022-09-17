@@ -18,3 +18,5 @@ Os jogos exibidos na tela, vem do backend no qual você pode alterar. Para funci
 
 ## Rodando projeto
  `npm run dev`
+
+* [Clicando aqui](https://www.linkedin.com/feed/update/urn:li:ugcPost:6976910540015054848/) você acessa um video curto da aplicação
